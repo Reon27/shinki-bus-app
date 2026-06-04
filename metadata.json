@@ -1,0 +1,8 @@
+{
+  "name": "神姫バス スマートナビ",
+  "description": "リアルタイム運行、秒単位カウントダウン、曜日自動表示など神姫バス利用者の不満を解消するPWA対応スマートアプリ。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
