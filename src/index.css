@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-shinki: #F15A22;
+  --color-shinki-dark: #cc4514;
+  --color-shinki-light: #ff7d4d;
+}
